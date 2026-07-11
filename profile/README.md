@@ -1,6 +1,6 @@
 # Guidance Labs
 
-Guidance is a market research and strategic consulting firm based in Erbil, Iraq. We deliver primary research, competitive intelligence, and data-driven advisory to organisations operating across Iraq and the wider region.
+Guidance is a market research and strategic consulting firm based in Erbil, Iraq. We deliver primary research, competitive intelligence, and data-driven advisory to organisations operating across Iraq and the wider region. We also build software — internal tools and client-facing products that put our research and data to work.
 
 ## What we do
 
@@ -8,6 +8,7 @@ Guidance is a market research and strategic consulting firm based in Erbil, Iraq
 - **Competitive intelligence** — mapping who else is in the market and what they're doing about it
 - **Feasibility studies** — testing whether an idea holds up before capital goes into it
 - **Strategic advisory** — turning research into decisions, not just decks
+- **Software development** — building the tools and platforms that turn our research into something usable
 
 ## This organization
 
